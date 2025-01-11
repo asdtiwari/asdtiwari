@@ -71,17 +71,8 @@ I enjoy solving coding challenges and building innovative projects. When I’m n
 
 ---
 
-### ✨ GitHub Stats
-
-![Akhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asdtiwari&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asdtiwari&layout=compact&theme=tokyonight)
-
----
-
 ### 💬 Let’s Collaborate!
 I’m always open to collaborating on **open-source projects**, solving coding challenges, or learning together. Feel free to reach out! 🚀
-
 
 <!---
 asdtiwari/asdtiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
