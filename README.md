@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Computer Science Engineering student** at 
 ## 🛠️ Skills & Technologies
 
 ### **Programming Languages**
-- **Java** | **C** | **MySQL**
+- **Java** | **C** | **SQL**
 
 ### **Frontend Development**
 - **HTML5** | **CSS3** | **JavaScript**
