@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhilesh Tiwari  
 
-Welcome to my GitHub profile! I'm a **Computer Science Engineering student** at **Medi-Caps University, Indore**, with a **CGPA of 9.12**. I have a keen interest in **web development**, **backend engineering**, and **competitive programming**. My goal is to learn, build, and collaborate on projects that solve real-world problems.
+Welcome to my GitHub profile! I'm a **Computer Science Engineering student** at **Medi-Caps University, Indore**, with a **CGPA of 9.07**. I have a keen interest in **web development**, **backend engineering**, and **competitive programming**. My goal is to learn, build, and collaborate on projects that solve real-world problems.
 
 ---
 
@@ -13,17 +13,20 @@ Welcome to my GitHub profile! I'm a **Computer Science Engineering student** at 
 - **HTML5** | **CSS3** | **JavaScript**
 
 ### **Frameworks & Libraries**
-- **Spring Boot** | **Bootstrap** | **jQuery** | **Thymeleaf**
+- **Spring Boot** | **Tailwind CSS** | **jQuery**
 
 ### **Tools**
 - **Postman** | **Spring Test Suite** | **VS Code** | **MySQL Workbench**
 
 ### **Core Concepts**
-- **Data Structures & Algorithms (DSA)** | **Object-Oriented Programming (OOP)**
+- **Data Structures & Algorithms (DSA)** | **Object-Oriented Programming (OOP)** | **Operating System**
 
 ---
 
 ## 🌟 Featured Projects
+
+### 📌 [DIAS](https://github.com/asdtiwari/dias)
+Digital Intelligent Attendance System is an alternative for the traditional Pen Paper Based Attendance System.
 
 ### 📌 [Student Zone](https://github.com/asdtiwari/studentZone)
 A web application built using **Spring Boot** and **Thymeleaf** to perform CRUD operations.  
