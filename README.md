@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-I'm a **Computer Science Engineering student** at **Medi-Caps University, Indore**, currently maintaining a **CGPA of 9.15/10**.  
+I'm a **Computer Science Engineering student** at **Medicaps University, Indore**.  
 As an **Intern at MII Foundation**, I contributed to digital transformation by developing and enhancing systems that reduced paperwork by **90%**, improving operational efficiency for **10,000+ university users**.  
 
 With hands-on experience in **Java**, **Spring Boot**, and **Flutter**, I love building scalable backend systems and experimenting with **AI-assisted tools** to solve real-world challenges. My development philosophy centers around clean code, performance optimization, and user-centric design.
@@ -72,7 +72,7 @@ A **role-based console banking system** built in **C** featuring **password mask
 - Automated data handling, reducing paperwork by **90%**.  
 - Collaborated in an **Agile team** of 10+ members focusing on backend logic and UI responsiveness.  
 
-### 💻 **Trainee — Medi-Caps University**  
+### 💻 **Trainee — Medicaps University**  
 *Jun 2025 – Jul 2025 | Indore, MP*  
 - Gained certifications in multiple technologies and consistently performed at **80%+** in evaluations.  
 - Strengthened understanding of **OOP**, **DSA**, and **Software Design Principles**.  
