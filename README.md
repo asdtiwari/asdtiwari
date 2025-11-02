@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Akhilesh Tiwari**  
 
-🎯 *Passionate Developer | Backend Engineer | Innovator*  
+🎯 *Aspiring Software Developer | Backend Engineer | Innovator*  
 💻 *Crafting solutions that bridge creativity and code.*
 
 ---
