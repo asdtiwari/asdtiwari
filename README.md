@@ -1,83 +1,119 @@
-# 👋 Hi, I'm Akhilesh Tiwari  
+# 👋 Hey there, I'm **Akhilesh Tiwari**  
 
-Welcome to my GitHub profile! I'm a **Computer Science Engineering student** at **Medi-Caps University, Indore**, with a **CGPA of 9.07**. I have a keen interest in **web development**, **backend engineering**, and **competitive programming**. My goal is to learn, build, and collaborate on projects that solve real-world problems.
-
----
-
-## 🛠️ Skills & Technologies
-
-### **Programming Languages**
-- **Java** | **C** | **SQL**
-
-### **Frontend Development**
-- **HTML5** | **CSS3** | **JavaScript**
-
-### **Frameworks & Libraries**
-- **Spring Boot** | **Tailwind CSS** | **jQuery**
-
-### **Tools**
-- **Postman** | **Spring Test Suite** | **VS Code** | **MySQL Workbench**
-
-### **Core Concepts**
-- **Data Structures & Algorithms (DSA)** | **Object-Oriented Programming (OOP)** | **Operating System**
+🎯 *Passionate Developer | Backend Engineer | Innovator*  
+💻 *Crafting solutions that bridge creativity and code.*
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 About Me  
 
-### 📌 [DIAS](https://github.com/asdtiwari/dias)
-Digital Intelligent Attendance System is an alternative for the traditional Pen Paper Based Attendance System.
+I'm a **Computer Science Engineering student** at **Medi-Caps University, Indore**, currently maintaining a **CGPA of 9.15/10**.  
+As an **Intern at MII Foundation**, I contributed to digital transformation by developing and enhancing systems that reduced paperwork by **90%**, improving operational efficiency for **10,000+ university users**.  
 
-### 📌 [Student Zone](https://github.com/asdtiwari/studentZone)
-A web application built using **Spring Boot** and **Thymeleaf** to perform CRUD operations.  
-- **Features**: Robust backend logic, MVC architecture, and user-friendly interface.
-
-### 📌 [Angular CRUD App](https://asdtiwari.github.io/angularCrudOperation)
-A responsive **Single Page Application (SPA)** demonstrating CRUD functionality with **Angular** and **TypeScript**.  
-- **Live Demo**: Hosted on GitHub Pages.
-
-### 📌 [Portfolio Website](https://asdtiwari.github.io)
-A personal portfolio showcasing my projects, skills, and education.  
-- **Tech Stack**: HTML, CSS, JavaScript, Bootstrap, and AOS (Animate on Scroll).
+With hands-on experience in **Java**, **Spring Boot**, and **Flutter**, I love building scalable backend systems and experimenting with **AI-assisted tools** to solve real-world challenges. My development philosophy centers around clean code, performance optimization, and user-centric design.
 
 ---
 
-## 🚀 What I’m Currently Learning
-- Advanced **Data Structures and Algorithms (DSA)**  
-- **Spring Boot** for enterprise-level applications  
-- **Cloud Computing** concepts and AWS fundamentals  
+## 🛠️ Tech Stack  
+
+### 💻 **Languages**
+`Java SE 8` • `C` • `C++` • `SQL`
+
+### 🌐 **Frontend**
+`HTML5` • `CSS3` • `Bootstrap` • `Tailwind CSS`
+
+### ⚙️ **Backend & Frameworks**
+`Spring Boot` • `JPA` • `JDBC` • `REST APIs`
+
+### 🗄️ **Databases**
+`MySQL 8`
+
+### 🧰 **Tools & Platforms**
+`VS Code` • `Git` • `GitHub` • `Postman` • `Brackets` • `Windows` • `Android`
+
+### ☁️ **Familiar With**
+`Flutter` • `Python` • `JavaScript` • `Dart` • `XML` • `AWS`
 
 ---
 
-## 🏆 Achievements & Activities
-- Maintained a **CGPA above 9.0** throughout my academic journey.  
-- Resolved **responsiveness issues** in my portfolio using **Bootstrap** and **JavaScript**.  
-- Actively participated in coding challenges on **HackerRank** and **LeetCode** to enhance problem-solving skills.
+## 🌟 Featured Projects  
+
+### 🔐 [AuthAPI: Passwordless Authenticator](https://github.com/asdtiwari/auth-api)
+*Aug 2025 – Oct 2025*  
+A secure, **device-binding-based passwordless authentication system** using **Flutter** and **Spring Boot**.  
+- Enhanced login security, reducing latency by **25%**.  
+- Designed and implemented **two third-party integration patterns**, cutting integration time by **75%**.  
+- **Tech Stack:** Flutter • Spring Boot • REST APIs • Duck DNS • GitHub  
 
 ---
 
-## 💻 Competitive Programming Profiles
-- [HackerRank Profile](https://www.hackerrank.com/asdtiwari)  
-- [LeetCode Profile](https://leetcode.com/u/asdtiwari/)
+### 📡 [DIAS: Bluetooth-Based Attendance System](https://github.com/asdtiwari/dias)
+*Jan 2025 – Apr 2025*  
+Engineered a **BLE-powered attendance system** with **device fingerprinting** to mitigate spoofing by **35%**.  
+- Automated manual attendance processes, improving efficiency by **80%**.  
+- Integrated **secure external storage** and optimized backend logic.  
+- **Tech Stack:** Flutter • Spring Boot • BLE • REST APIs • GitHub  
 
 ---
 
-## 📫 Let’s Connect!
-- **Portfolio**: [asdtiwari.github.io](https://asdtiwari.github.io)  
-- **LinkedIn**: [linkedin.com/in/asdtiwari](https://linkedin.com/in/asdtiwari)  
-- **Email**: [akhileshtiwari8033@gmail.com](mailto:akhileshtiwari8033@gmail.com)  
+### 🏦 [Bank Management System — Console App](https://github.com/asdtiwari/bank_management_system)
+*Sep 2025*  
+A **role-based console banking system** built in **C** featuring **password masking** and **binary file handling**.  
+- Increased code modularity and maintainability by **40%**.  
+- **Tech Stack:** C • Binary File Handling • GitHub  
 
 ---
 
-### 🌟 Fun Fact
-I enjoy solving coding challenges and building innovative projects. When I’m not coding, you’ll find me brainstorming ideas or improving my portfolio!
+## 💼 Experience  
+
+### 🧩 **Intern — MII Foundation**  
+*Jan 2025 – Apr 2025 | Indore, MP*  
+- Contributed to the **Mentor-Mentee System**, a large-scale web app serving **10,000+ users**.  
+- Automated data handling, reducing paperwork by **90%**.  
+- Collaborated in an **Agile team** of 10+ members focusing on backend logic and UI responsiveness.  
+
+### 💻 **Trainee — Medi-Caps University**  
+*Jun 2025 – Jul 2025 | Indore, MP*  
+- Gained certifications in multiple technologies and consistently performed at **80%+** in evaluations.  
+- Strengthened understanding of **OOP**, **DSA**, and **Software Design Principles**.  
 
 ---
 
-### 💬 Let’s Collaborate!
-I’m always open to collaborating on **open-source projects**, solving coding challenges, or learning together. Feel free to reach out! 🚀
+## 🏅 Certifications  
 
-<!---
-asdtiwari/asdtiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 **Programming in Java** — NPTEL (Oct 2025)  
+- 🧠 **Java DSA Course** — Scaler (Dec 2024)  
+- 🛰️ **UAS Navigation, Communication and Applications** — IIT Indore (Aug–Sep 2023)  
+- 🏗️ **Engineering Data Structures** — Universal Informatics (Jun–Jul 2022)  
+- 💡 **C & C++ OOP** — Universal Informatics (Mar–May 2022)  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 **LeetCode:** 9 badges | Top **50,000** global ranking  
+- 🧩 **HackerRank:** 5⭐ SQL | 4⭐ C | 3 additional skill badges  
+- 📚 **Academic Excellence:** Secured 2nd position in High School  
+- 👨‍💼 **Leadership:** Head Boy (2021–22) & Class Representative at Medi-Caps University  
+
+---
+
+## 📫 Let's Connect  
+
+🌐 **Portfolio:** [asdtiwari.github.io](https://asdtiwari.github.io)  
+💼 **LinkedIn:** [linkedin.com/in/asdtiwari](https://linkedin.com/in/asdtiwari)  
+📧 **Email:** [asdtiwari76@gmail.com](mailto:asdtiwari76@gmail.com)  
+💻 **GitHub:** [github.com/asdtiwari](https://github.com/asdtiwari)  
+
+---
+
+## 💬 Fun Fact  
+
+> I love solving complex problems and turning ideas into scalable applications.  
+> When I’m not coding, I’m probably sketching concepts for my next project or reading about AI-driven backend solutions.  
+
+---
+
+### 🚀 Let’s Collaborate!  
+I’m open to **open-source contributions**, **backend projects**, or **AI-integrated systems**.  
+Let’s connect, build, and innovate together. 💡
