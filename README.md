@@ -124,17 +124,16 @@ I’m particularly interested in **backend architecture**, **secure authenticati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asdtiwari&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asdtiwari&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📈 Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asdtiwari&theme=tokyo-night" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=${dash.github}&layout=compact&theme=tokyonight" />
 </p>
 
 ---
