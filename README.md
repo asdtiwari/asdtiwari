@@ -132,6 +132,11 @@ I’m particularly interested in **backend architecture**, **secure authenticati
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asdtiwari&theme=tokyo-night" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=${dash.github}&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📫 Connect With Me  
